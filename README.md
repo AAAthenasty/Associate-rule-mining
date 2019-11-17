@@ -12,4 +12,4 @@ There are two ways to get the relationship, the [first](https://github.com/AAAth
 Only pandas, time are used 
 
 ## Addinng Information
-THere are also other ways to deal with this problem, e.g Aporior algorithm
+There are also other ways to deal with this problem, e.g Aporior algorithm
